@@ -1,0 +1,8 @@
+@MethodsReturnNonnullByDefault
+@ParametersAreNonnullByDefault
+@TypeUseAreNonnullByDefault
+package tamaized.pkginfoutil;
+
+import com.mojang.logging.annotations.MethodsReturnNonnullByDefault;
+
+import javax.annotation.ParametersAreNonnullByDefault;
